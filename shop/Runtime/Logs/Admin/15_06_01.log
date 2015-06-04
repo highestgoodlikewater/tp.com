@@ -1,0 +1,287 @@
+[ 2015-06-01T14:21:58+08:00 ] ::1 /tp.com/shop/index.php/admin/goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_CSS_URLmine.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 非法操作:ADMIN_CSS_URLmine.css
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/3_G_1241422082168.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000283s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001348s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/32_thumb_G_1242110760196.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/3_thumb_G_1241422082679.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/32_G_1242110760868.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMG
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+ERR: 非法操作:ADMIN_GOODS_IMG
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/4_G_1241422402722.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/4_thumb_G_1241422402467.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/7_thumb_G_1241422785492.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/7_G_1241422785856.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/9_G_1241511871574.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/10_thumb_G_1242973436403.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/10_G_1242973436141.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/12_G_1241965978209.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/14_G_1241968492932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/13_G_1241968002233.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2015-06-01T16:30:48+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/14_thumb_G_1241968492116.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/13_thumb_G_1241968002527.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/15_G_1242973362318.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/15_thumb_G_1242973362970.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/16_thumb_G_1241968949103.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/16_G_1241968949002.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/17_G_1241969394677.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/19_G_1241970175091.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/17_thumb_G_1241969394587.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/20_thumb_G_1242106490058.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/19_thumb_G_1241970175208.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/20_G_1242106490663.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/21_G_1242109298873.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/21_thumb_G_1242109298150.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/22_G_1241971076358.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/23_G_1241971556855.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/23_thumb_G_1241971556399.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/22_thumb_G_1241971076803.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/24_G_1241971981284.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/25_G_1241972709544.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/27_G_1241972894061.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/25_thumb_G_1241972709885.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/26_G_1241972789293.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/28_thumb_G_1241972976986.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/27_thumb_G_1241972894068.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/28_G_1241972976313.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/26_thumb_G_1241972789393.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/30_thumb_G_1241973114800.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/31_G_1242110412332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/29_G_1241973022206.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/29_thumb_G_1241973022239.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/goods_img/30_G_1241973114234.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2015-06-01T16:30:49+08:00 ] ::1 /tp.com/index.php/admin/goods/ADMIN_GOODS_IMGimages/200905/thumb_img/31_thumb_G_1242110412996.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2015-06-01T16:31:23+08:00 ] ::1 /tp.com/shop/index.php/admin/goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+

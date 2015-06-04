@@ -1,0 +1,277 @@
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001065s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/CSS_URLstyle.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL3_thumb_G_1241422082679.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLtop_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLbiao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLtop_2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLbiao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLlogo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLtop_3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLbiao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLtop_4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000950s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLtop_5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLtop_6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLtop_7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL1240803144788047486.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL1240803062307572427.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL1240802922410634065.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLyongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL111.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL1_thumb_G_1240902890710.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015712s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLsousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2015-06-02T08:53:22+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLdi.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLlogo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/CSS_URLstyle.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+ERR: 非法操作:CSS_URLstyle.css
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLbiao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLbiao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLbiao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLtop_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL3_thumb_G_1241422082679.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL24_thumb_G_1241971981429.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLtop_2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLtop_3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL12_thumb_G_1241965978410.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLtop_4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLtop_6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLtop_7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL1240803062307572427.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLtop_5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL1240803144788047486.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL1240802922410634065.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001247s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL1_thumb_G_1240902890710.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL9_thumb_G_1241511871555.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL111.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005271s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URL8_thumb_G_1241425513488.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLyongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLdi.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/index.php/home/index/IMG_URLsousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2015-06-02T08:53:25+08:00 ] ::1 /tp.com/shop/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+

@@ -1,0 +1,1632 @@
+[ 2015-06-02T08:53:29+08:00 ] ::1 /tp.com/shop/index.php/admin/goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2015-06-02T08:53:34+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+ERR: 非法操作:index
+
+[ 2015-06-02T08:53:38+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 非法操作:index
+
+[ 2015-06-02T08:53:41+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2015-06-02T08:53:41+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/admin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2015-06-02T08:53:41+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/User_Login.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 非法操作:User_Login.css
+
+[ 2015-06-02T08:53:41+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/user_botton.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2015-06-02T08:54:05+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2015-06-02T11:32:50+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+ERR: 非法操作:verify
+
+[ 2015-06-02T11:33:36+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2015-06-02T11:33:41+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2015-06-02T11:33:45+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2015-06-02T11:54:10+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2015-06-02T11:54:11+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2015-06-02T11:54:12+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2015-06-02T11:54:13+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2015-06-02T11:54:14+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2015-06-02T11:54:15+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2015-06-02T11:54:16+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2015-06-02T11:54:16+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000878s ]
+
+[ 2015-06-02T11:54:31+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2015-06-02T11:54:31+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2015-06-02T13:28:21+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2015-06-02T13:28:22+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2015-06-02T13:42:12+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2015-06-02T13:46:52+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2015-06-02T13:47:36+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2015-06-02T13:50:10+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2015-06-02T13:50:11+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2015-06-02T13:50:19+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2015-06-02T13:50:21+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2015-06-02T13:50:22+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2015-06-02T13:50:23+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+
+[ 2015-06-02T13:50:25+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2015-06-02T13:50:57+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2015-06-02T13:50:59+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2015-06-02T13:51:00+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2015-06-02T13:51:01+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2015-06-02T13:51:02+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2015-06-02T13:52:29+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2015-06-02T13:52:30+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2015-06-02T13:52:31+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2015-06-02T13:52:32+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2015-06-02T13:52:54+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2015-06-02T13:52:55+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2015-06-02T13:52:56+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2015-06-02T13:52:57+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2015-06-02T13:52:58+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2015-06-02T13:53:13+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2015-06-02T13:53:14+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2015-06-02T13:53:15+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2015-06-02T13:55:16+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2015-06-02T13:55:17+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2015-06-02T13:55:17+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2015-06-02T13:55:18+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2015-06-02T13:55:19+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2015-06-02T13:55:19+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2015-06-02T13:55:26+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+
+[ 2015-06-02T13:55:27+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2015-06-02T13:55:28+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2015-06-02T13:55:30+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2015-06-02T13:55:31+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2015-06-02T13:55:32+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2015-06-02T13:55:33+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2015-06-02T13:55:34+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2015-06-02T13:55:41+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2015-06-02T13:55:42+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2015-06-02T13:55:43+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2015-06-02T13:55:44+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2015-06-02T13:55:52+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2015-06-02T13:55:53+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2015-06-02T13:55:53+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2015-06-02T13:55:54+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2015-06-02T13:55:55+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2015-06-02T13:55:59+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+
+[ 2015-06-02T13:56:00+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2015-06-02T13:56:01+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2015-06-02T13:56:02+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+
+[ 2015-06-02T13:56:02+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2015-06-02T13:56:10+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2015-06-02T13:56:11+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2015-06-02T13:56:12+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2015-06-02T13:56:13+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+
+[ 2015-06-02T13:56:15+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2015-06-02T13:56:16+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2015-06-02T13:56:18+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2015-06-02T13:56:19+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2015-06-02T13:56:19+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2015-06-02T13:56:20+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2015-06-02T13:56:22+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2015-06-02T13:59:24+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2015-06-02T13:59:25+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2015-06-02T14:00:17+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2015-06-02T14:00:17+08:00 ] ::1 /tp.com/shop/index.php/Admin/ManagerManager/verifty
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+ERR: 无法加载控制器:ManagerManager
+
+[ 2015-06-02T14:00:18+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2015-06-02T14:00:18+08:00 ] ::1 /tp.com/shop/index.php/Admin/ManagerManager/verifty
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载控制器:ManagerManager
+
+[ 2015-06-02T14:00:57+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2015-06-02T14:00:57+08:00 ] ::1 /tp.com/shop/index.php/Admin/ManagerManager/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+ERR: 无法加载控制器:ManagerManager
+
+[ 2015-06-02T14:01:30+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2015-06-02T14:01:30+08:00 ] ::1 /tp.com/shop/index.php/Admin/ManagerManager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+ERR: 无法加载控制器:ManagerManager
+
+[ 2015-06-02T14:01:31+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2015-06-02T14:01:31+08:00 ] ::1 /tp.com/shop/index.php/Admin/ManagerManager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载控制器:ManagerManager
+
+[ 2015-06-02T14:01:58+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2015-06-02T14:01:58+08:00 ] ::1 /tp.com/shop/index.php/Admin/ManagerverifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+ERR: 无法加载控制器:ManagerverifyImg
+
+[ 2015-06-02T14:02:04+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2015-06-02T14:02:04+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2015-06-02T14:02:19+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2015-06-02T14:02:19+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2015-06-02T14:02:24+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2015-06-02T14:02:24+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2015-06-02T14:02:25+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2015-06-02T14:02:25+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2015-06-02T14:27:29+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001764s ]
+
+[ 2015-06-02T14:27:29+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2015-06-02T14:27:31+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2015-06-02T14:27:31+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001145s ]
+
+[ 2015-06-02T14:27:40+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2015-06-02T14:29:44+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2015-06-02T14:29:45+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2015-06-02T14:29:45+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2015-06-02T14:29:55+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2015-06-02T14:30:00+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2015-06-02T14:30:00+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2015-06-02T14:30:08+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2015-06-02T14:30:10+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2015-06-02T14:30:20+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2015-06-02T14:30:20+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2015-06-02T14:30:25+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2015-06-02T14:30:25+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2015-06-02T14:30:26+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2015-06-02T14:30:26+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2015-06-02T14:30:27+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2015-06-02T14:30:27+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2015-06-02T14:30:27+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2015-06-02T14:30:28+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2015-06-02T14:30:29+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2015-06-02T14:30:29+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+
+[ 2015-06-02T14:30:30+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2015-06-02T14:30:30+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2015-06-02T14:30:31+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2015-06-02T14:30:31+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2015-06-02T14:30:35+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2015-06-02T14:30:35+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+
+[ 2015-06-02T14:30:36+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2015-06-02T14:30:36+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2015-06-02T14:30:37+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2015-06-02T14:30:37+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2015-06-02T14:30:37+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2015-06-02T14:30:37+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2015-06-02T14:30:46+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2015-06-02T15:24:52+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001744s ]
+
+[ 2015-06-02T15:30:48+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2015-06-02T15:30:51+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2015-06-02T15:30:59+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2015-06-02T15:45:23+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+
+[ 2015-06-02T15:45:23+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2015-06-02T15:45:33+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2015-06-02T15:45:35+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2015-06-02T15:45:49+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2015-06-02T15:45:51+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+
+[ 2015-06-02T15:45:51+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2015-06-02T15:45:58+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2015-06-02T15:49:21+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2015-06-02T15:49:22+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2015-06-02T15:49:22+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2015-06-02T15:49:23+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2015-06-02T15:49:23+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2015-06-02T15:49:30+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2015-06-02T15:50:10+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2015-06-02T15:50:10+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2015-06-02T15:50:16+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2015-06-02T15:50:28+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2015-06-02T15:50:28+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2015-06-02T15:50:39+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2015-06-02T15:52:33+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2015-06-02T15:52:34+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2015-06-02T15:52:34+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2015-06-02T15:52:34+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2015-06-02T15:52:34+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+
+[ 2015-06-02T15:52:39+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2015-06-02T15:52:41+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2015-06-02T15:53:02+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2015-06-02T15:53:02+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2015-06-02T15:53:07+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2015-06-02T15:59:57+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2015-06-02T15:59:57+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2015-06-02T15:59:58+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2015-06-02T15:59:58+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+
+[ 2015-06-02T16:00:08+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2015-06-02T16:00:08+08:00 ] ::1 /tp.com/shop/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2015-06-02T16:00:09+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2015-06-02T16:00:09+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2015-06-02T16:00:09+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2015-06-02T16:02:49+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2015-06-02T16:02:50+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2015-06-02T16:02:50+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2015-06-02T16:02:51+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2015-06-02T16:02:51+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+
+[ 2015-06-02T16:02:52+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2015-06-02T16:02:52+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2015-06-02T16:02:53+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2015-06-02T16:02:53+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2015-06-02T16:02:54+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2015-06-02T16:02:54+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2015-06-02T16:02:55+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2015-06-02T16:02:55+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2015-06-02T16:02:56+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2015-06-02T16:02:57+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2015-06-02T16:02:57+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2015-06-02T16:02:58+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2015-06-02T16:08:59+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2015-06-02T16:08:59+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2015-06-02T16:09:00+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2015-06-02T16:09:00+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+
+[ 2015-06-02T16:09:00+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2015-06-02T16:09:00+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2015-06-02T16:09:00+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2015-06-02T16:09:01+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2015-06-02T16:09:01+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2015-06-02T16:09:01+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+
+[ 2015-06-02T16:09:01+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2015-06-02T16:09:01+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2015-06-02T16:09:01+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2015-06-02T16:09:02+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2015-06-02T16:09:03+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2015-06-02T16:09:05+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2015-06-02T16:09:06+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2015-06-02T16:09:08+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2015-06-02T16:09:08+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2015-06-02T16:09:40+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2015-06-02T16:11:09+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2015-06-02T16:24:27+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2015-06-02T16:24:27+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2015-06-02T16:24:36+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2015-06-02T16:24:36+08:00 ] ::1 /tp.com/shop/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2015-06-02T16:24:36+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2015-06-02T16:24:36+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2015-06-02T16:24:36+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+
+[ 2015-06-02T16:24:48+08:00 ] ::1 /tp.com/shop/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2015-06-02T16:24:48+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2015-06-02T16:24:48+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2015-06-02T16:24:48+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2015-06-02T16:24:52+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2015-06-02T16:24:52+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/Manager/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+ERR: 非法操作:Manager
+
+[ 2015-06-02T16:24:58+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2015-06-02T16:24:58+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2015-06-02T16:24:58+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2015-06-02T16:25:05+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2015-06-02T16:25:05+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/Manager/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 非法操作:Manager
+
+[ 2015-06-02T16:25:25+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2015-06-02T16:25:25+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2015-06-02T16:25:25+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2015-06-02T16:25:26+08:00 ] ::1 /tp.com/shop/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2015-06-02T16:25:26+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2015-06-02T16:25:26+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2015-06-02T16:25:26+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2015-06-02T16:25:30+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2015-06-02T16:25:30+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2015-06-02T16:25:30+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2015-06-02T16:25:41+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2015-06-02T16:25:41+08:00 ] ::1 /tp.com/shop/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+
+[ 2015-06-02T16:25:41+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2015-06-02T16:25:41+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2015-06-02T16:25:41+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2015-06-02T16:28:03+08:00 ] ::1 /tp.com/shop/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2015-06-02T16:28:03+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2015-06-02T16:28:03+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2015-06-02T16:28:03+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2015-06-02T16:28:04+08:00 ] ::1 /tp.com/shop/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2015-06-02T16:28:04+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2015-06-02T16:28:04+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2015-06-02T16:28:04+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2015-06-02T16:30:27+08:00 ] ::1 /tp.com/shop/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001813s ]
+
+[ 2015-06-02T16:30:27+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2015-06-02T16:30:27+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2015-06-02T16:30:27+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2015-06-02T16:30:36+08:00 ] ::1 /tp.com/shop/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2015-06-02T16:30:36+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2015-06-02T16:30:36+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2015-06-02T16:30:36+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2015-06-02T16:31:35+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2015-06-02T16:32:09+08:00 ] ::1 /tp.com/shop/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2015-06-02T16:32:09+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2015-06-02T16:32:09+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2015-06-02T16:32:09+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2015-06-02T16:32:11+08:00 ] ::1 /tp.com/shop/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2015-06-02T16:32:11+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2015-06-02T16:32:11+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2015-06-02T16:32:11+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2015-06-02T16:33:00+08:00 ] ::1 /tp.com/shop/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2015-06-02T16:33:00+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2015-06-02T16:33:00+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2015-06-02T16:33:01+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2015-06-02T16:33:04+08:00 ] ::1 /tp.com/shop/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2015-06-02T16:33:04+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2015-06-02T16:33:04+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2015-06-02T16:33:04+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2015-06-02T16:53:54+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001948s ]
+
+[ 2015-06-02T16:53:54+08:00 ] ::1 /tp.com/shop/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+
+[ 2015-06-02T16:54:01+08:00 ] ::1 /tp.com/shop/index.php/admin/manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2015-06-02T16:54:02+08:00 ] ::1 /tp.com/shop/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+
+[ 2015-06-02T16:54:02+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+
+[ 2015-06-02T16:54:02+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+
+[ 2015-06-02T16:54:02+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2015-06-02T17:22:41+08:00 ] ::1 /tp.com/shop//index.php/Admin/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001829s ]
+
+[ 2015-06-02T17:22:43+08:00 ] ::1 /tp.com/shop//index.php/Admin/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2015-06-02T17:22:52+08:00 ] ::1 /tp.com/shop/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2015-06-02T17:22:52+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2015-06-02T17:22:52+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2015-06-02T17:22:52+08:00 ] ::1 /tp.com/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001394s ]
+
+[ 2015-06-02T17:22:55+08:00 ] ::1 /tp.com/shop//index.php/Admin/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2015-06-02T17:27:40+08:00 ] ::1 /tp.com/shop//index.php/Admin/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2015-06-02T17:33:16+08:00 ] ::1 /tp.com/shop//index.php/Admin/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+
+[ 2015-06-02T17:35:27+08:00 ] ::1 /tp.com/shop//index.php/Admin/Goods/show
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2015-06-02T17:35:30+08:00 ] ::1 /tp.com/shop//index.php/Admin/Goods/show?&page=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2015-06-02T17:35:33+08:00 ] ::1 /tp.com/shop//index.php/Admin/Goods/show?&page=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2015-06-02T17:35:36+08:00 ] ::1 /tp.com/shop//index.php/Admin/Goods/show?&page=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2015-06-02T17:35:40+08:00 ] ::1 /tp.com/shop//index.php/Admin/Goods/show?&page=6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2015-06-02T17:35:44+08:00 ] ::1 /tp.com/shop//index.php/Admin/Goods/show?&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2015-06-02T17:35:45+08:00 ] ::1 /tp.com/shop//index.php/Admin/Goods/show?&page=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+
+[ 2015-06-02T17:36:22+08:00 ] ::1 /tp.com/shop//index.php/Admin/Goods/show?&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2015-06-02T17:36:33+08:00 ] ::1 /tp.com/shop//index.php/Admin/Goods/show?&page=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2015-06-02T17:36:50+08:00 ] ::1 /tp.com/shop//index.php/Admin/Goods/show?&page=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2015-06-02T17:36:53+08:00 ] ::1 /tp.com/shop//index.php/Admin/Goods/show?&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
